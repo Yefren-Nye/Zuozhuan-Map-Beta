@@ -8,6 +8,11 @@
   text-align: left;
 }
 
+#header {
+  font-size: 24px;
+  font: bold;
+}
+
 /* Targeting HTML elements with a specific class */
 .content {
   font-size: 16px;
